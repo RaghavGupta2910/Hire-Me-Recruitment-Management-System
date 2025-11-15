@@ -54,12 +54,6 @@ python main.py
 -  Super-User(Admin) Panel For Future Features.
 - many more ...
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/karan0805/Hire-Me/issues) 
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/karan0805/Hire-Me) 
-
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/karan0805/Hire-Me) 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/karan0805/Hire-Me)
 
-### If you encounter any difficulty running it, feel free to contact on my email :smile:
-
-### If you liked our work do give us a star :star::star::star: It Encourages us to do more :wink: :dizzy:
